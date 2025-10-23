@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "name": "Игорь",
+      "score": 230,
+      "timestamp": 1000000000
+    },
+    {
+      "id": 2,
+      "name": "Вася",
+      "score": 230,
+      "timestamp": 1000000000
+    },
+    {
+      "id": 3,
+      "name": "Петя",
+      "score": 230,
+      "timestamp": 1000000000
+    },
+    {
+      "id": 4,
+      "name": "Саша",
+      "score": 230,
+      "timestamp": 1000000000
+    },
+  ]
+}
